@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eddysung
-- 👀 I’m interested in programm
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning reactJs
-- 📫 How to reach me ...
+- 📫 How to reach me @edet_obisung
 
 <!---
 Eddysung/Eddysung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
